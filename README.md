@@ -1,4 +1,4 @@
-# vault-engine
+# Vault-engine
 
 Multithreaded prime factorization engine built with Java 27 Virtual Threads and Maven.
 
